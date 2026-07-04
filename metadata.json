@@ -1,0 +1,6 @@
+{
+  "name": "CitizenVoice",
+  "description": "Multilingual AI-powered administrative prioritation and community ingestion platform for Members of Parliament.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
