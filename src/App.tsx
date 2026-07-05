@@ -65,7 +65,7 @@ export default function App() {
 
       {/* Universal Footer */}
       <footer className="bg-white border-t border-slate-100 py-6 text-center text-xs text-slate-400 font-semibold font-mono">
-        <div>© 2026 CitizenVoice MP Priority Platform. Powered by Antigravity Full-Stack AI.</div>
+        <div>© 2026 CitizenVoice MP Priority Platform. Powered by Tech SparX.</div>
       </footer>
     </div>
   );
