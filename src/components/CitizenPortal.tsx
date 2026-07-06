@@ -448,6 +448,14 @@ export default function CitizenPortal({ onSubmissionSuccess }: CitizenPortalProp
                   <span>Submit to MP Prioritization Pipeline</span>
                   <ArrowRight className="h-4 w-4" />
                 </button>
+      {/* WhatsApp Button */}
+<a href="https://wa.me/919876543210?text=Hi,%20I%20want%20to%20raise%20a%20development%20grievance:" 
+   target="_blank"
+   rel="noopener noreferrer"
+   className="bg-emerald-500 hover:bg-emerald-600 text-white px-4 py-2 rounded-xl text-sm font-semibold flex items-center space-x-2 transition-colors cursor-pointer border border-emerald-400">
+  <MessageCircle className="h-4 w-4" />
+  <span>Connect via WhatsApp</span>
+</a>
               )}
             </div>
           </form>
